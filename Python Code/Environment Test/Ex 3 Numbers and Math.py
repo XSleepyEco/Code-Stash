@@ -13,4 +13,3 @@ print(3 + 2 < 5 - 7) #Logical output, additions and subrtraction are done first 
 
 print("What is 3 + 2?", 3 + 2) #Standard string and numeric output
 
-#Ex 4 Variables and names
